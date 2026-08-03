@@ -400,7 +400,7 @@ h3 {
 }
 
 .char-title {
-  background: #666;
+  background: #C24843;
   text-align: center;
   padding: 10px;
   color: #fff6f3;
@@ -462,7 +462,7 @@ h3 {
 
 .info-label {
   width: 28%;
-  background: #666;
+  background: #C24843;
   padding: 8px;
   font-weight: bold;
   text-align: center;
@@ -615,7 +615,7 @@ h3 {
   margin-top: 0px;
   padding: 3px 5px;
   border-radius: 4px;
-  background: #666;
+  background: #C24843;
   color: #fefafb;
   font-weight: bold;
 }
