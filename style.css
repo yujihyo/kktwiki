@@ -1424,17 +1424,6 @@ h3 {
     vertical-align: middle;
   }
 
-  .navbox-center { text-indent: 10px; }
-}
-
-.navbox-center .navbox-subtitle-01,
-.navbox-center .navbox-subtitle-02,
-.navbox-center .navbox-subtitle-03,
-.navbox-center .navbox-subtitle-04{
-    text-indent: 0px; 
-    display:inline-flex;
-    justify-content:center;
-    align-items:center;
 }
 
 /* =========================
