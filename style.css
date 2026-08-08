@@ -1430,8 +1430,10 @@ h3 {
 .navbox-center .navbox-subtitle-01,
 .navbox-center .navbox-subtitle-02,
 .navbox-center .navbox-subtitle-03,
-.navbox-center .navbox-subtitle-04 {
-    text-align: center;
+.navbox-center .navbox-subtitle-04{
+    display:inline-flex;
+    justify-content:center;
+    align-items:center;
 }
 
 /* =========================
