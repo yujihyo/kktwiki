@@ -1398,23 +1398,6 @@ h3 {
     padding: 2px 4px;
   }
 
-
-  .navbox-subtitle-01 {
-    text-align: center;
-  }
-
-  .navbox-subtitle-02 {
-    text-align: center;
-  }
-
-  .navbox-subtitle-03 {
-    text-align: center;
-  }
-
-  .navbox-subtitle-04 {
-    text-align: center;
-  }
-
   .navbox-toggle {
     margin: 2px 0;
     padding: 6px 0;
@@ -1442,6 +1425,13 @@ h3 {
   }
 
   .navbox-center { text-indent: 10px; }
+}
+
+.navbox-center .navbox-subtitle-01,
+.navbox-center .navbox-subtitle-02,
+.navbox-center .navbox-subtitle-03,
+.navbox-center .navbox-subtitle-04 {
+    text-align: center;
 }
 
 /* =========================
