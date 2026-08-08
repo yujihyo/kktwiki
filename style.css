@@ -1052,81 +1052,6 @@ h3 {
 
 }
 
-/* 색상 */
-
-.job-green {
-  background: #228b22;
-}
-
-.job-pink {
-  background: #ff69b4;
-}
-
-.job-yellow {
-  background: #ffc800;
-  color: #222;
-}
-
-.job-purple {
-  background: #9966cc;
-}
-
-.job-blue {
-  background: #4570e6;
-}
-
-.job-magenta {
-  background: #c71585;
-}
-
-.job-red {
-  background: #b22222;
-}
-
-.job-ivory {
-  background: #f1e7c8;
-  color: #222;
-}
-
-.job-violet {
-  background: #880085;
-}
-
-.job-grapefruit {
-  background: #ea3c53;
-}
-
-.job-lemon {
-  background: #ffef00;
-  color: #222;
-}
-
-.job-navy {
-  background: #0047ab;
-}
-
-.job-orange {
-  background: #8b4513;
-}
-
-.job-darkgreen {
-  background: #00563b;
-}
-
-.job-salmon {
-  background: #ff9e9b;
-}
-
-.job-lime {
-  background: #dfff00;
-  color: #222;
-}
-
-.job-gray {
-  background: #f5f5f5;
-  color: #f5f5f5;
-}
-
 .gift-table {
     width: 66%;
     border-collapse: collapse;
@@ -1471,6 +1396,23 @@ h3 {
   .navbox-subtitle {
     font-size: 12px;
     padding: 2px 4px;
+  }
+
+
+  .navbox-subtitle-01 {
+    text-align: center;
+  }
+
+  .navbox-subtitle-02 {
+    text-align: center;
+  }
+
+  .navbox-subtitle-03 {
+    text-align: center;
+  }
+
+  .navbox-subtitle-04 {
+    text-align: center;
   }
 
   .navbox-toggle {
